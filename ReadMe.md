@@ -1,2 +1,4 @@
 自动化shadowsock， 不使用docker主要是因为配合问题
 
+后期考虑用ansible或者fabric实现自动化部署
+
